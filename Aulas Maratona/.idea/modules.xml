@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aulas Maratona.iml" filepath="$PROJECT_DIR$/.idea/Aulas Maratona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjetosWeb/.idea/ProjetosWeb.iml" filepath="$PROJECT_DIR$/../ProjetosWeb/.idea/ProjetosWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonBasics-OO/.idea/PythonBasics-OO.iml" filepath="$PROJECT_DIR$/../PythonBasics-OO/.idea/PythonBasics-OO.iml" />
+    </modules>
+  </component>
+</project>
